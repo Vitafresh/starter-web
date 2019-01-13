@@ -12,3 +12,6 @@ Not ready yet
 
 ## How to contribute
 No way to contribute
+
+### Copyright
+Copyright notice for this tutorial
