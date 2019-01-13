@@ -12,6 +12,8 @@ Not ready yet
 
 ## How to contribute
 No way to contribute
+Update: You can fork this repo and change it!
+
 
 ### Copyright
 Copyright notice for this tutorial
